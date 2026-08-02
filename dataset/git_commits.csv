@@ -1,0 +1,121 @@
+diff_summary,commit_type,suggested_scope
+add user login endpoint,feat,auth
+add user login endpoint,feat,auth
+add user login endpoint,feat,auth
+add user login endpoint,feat,auth
+add user login endpoint,feat,auth
+add user login endpoint,feat,auth
+add user login endpoint,feat,auth
+add user login endpoint,feat,auth
+add user login endpoint,feat,auth
+add user login endpoint,feat,auth
+add user login endpoint,feat,auth
+add user login endpoint,feat,auth
+add user login endpoint,feat,auth
+add user login endpoint,feat,auth
+add user login endpoint,feat,auth
+fix payment callback null pointer,fix,billing
+fix payment callback null pointer,fix,billing
+fix payment callback null pointer,fix,billing
+fix payment callback null pointer,fix,billing
+fix payment callback null pointer,fix,billing
+fix payment callback null pointer,fix,billing
+fix payment callback null pointer,fix,billing
+fix payment callback null pointer,fix,billing
+fix payment callback null pointer,fix,billing
+fix payment callback null pointer,fix,billing
+fix payment callback null pointer,fix,billing
+fix payment callback null pointer,fix,billing
+fix payment callback null pointer,fix,billing
+fix payment callback null pointer,fix,billing
+fix payment callback null pointer,fix,billing
+update README guide,docs,docs
+update README guide,docs,docs
+update README guide,docs,docs
+update README guide,docs,docs
+update README guide,docs,docs
+update README guide,docs,docs
+update README guide,docs,docs
+update README guide,docs,docs
+update README guide,docs,docs
+update README guide,docs,docs
+update README guide,docs,docs
+update README guide,docs,docs
+update README guide,docs,docs
+update README guide,docs,docs
+update README guide,docs,docs
+reformat python code,style,style
+reformat python code,style,style
+reformat python code,style,style
+reformat python code,style,style
+reformat python code,style,style
+reformat python code,style,style
+reformat python code,style,style
+reformat python code,style,style
+reformat python code,style,style
+reformat python code,style,style
+reformat python code,style,style
+reformat python code,style,style
+reformat python code,style,style
+reformat python code,style,style
+reformat python code,style,style
+refactor database query,refactor,db
+refactor database query,refactor,db
+refactor database query,refactor,db
+refactor database query,refactor,db
+refactor database query,refactor,db
+refactor database query,refactor,db
+refactor database query,refactor,db
+refactor database query,refactor,db
+refactor database query,refactor,db
+refactor database query,refactor,db
+refactor database query,refactor,db
+refactor database query,refactor,db
+refactor database query,refactor,db
+refactor database query,refactor,db
+refactor database query,refactor,db
+add unit test suite,test,test
+add unit test suite,test,test
+add unit test suite,test,test
+add unit test suite,test,test
+add unit test suite,test,test
+add unit test suite,test,test
+add unit test suite,test,test
+add unit test suite,test,test
+add unit test suite,test,test
+add unit test suite,test,test
+add unit test suite,test,test
+add unit test suite,test,test
+add unit test suite,test,test
+add unit test suite,test,test
+add unit test suite,test,test
+bump dependency versions,chore,deps
+bump dependency versions,chore,deps
+bump dependency versions,chore,deps
+bump dependency versions,chore,deps
+bump dependency versions,chore,deps
+bump dependency versions,chore,deps
+bump dependency versions,chore,deps
+bump dependency versions,chore,deps
+bump dependency versions,chore,deps
+bump dependency versions,chore,deps
+bump dependency versions,chore,deps
+bump dependency versions,chore,deps
+bump dependency versions,chore,deps
+bump dependency versions,chore,deps
+bump dependency versions,chore,deps
+optimize SQL queries,perf,db
+optimize SQL queries,perf,db
+optimize SQL queries,perf,db
+optimize SQL queries,perf,db
+optimize SQL queries,perf,db
+optimize SQL queries,perf,db
+optimize SQL queries,perf,db
+optimize SQL queries,perf,db
+optimize SQL queries,perf,db
+optimize SQL queries,perf,db
+optimize SQL queries,perf,db
+optimize SQL queries,perf,db
+optimize SQL queries,perf,db
+optimize SQL queries,perf,db
+optimize SQL queries,perf,db
